@@ -18,3 +18,7 @@ MongoDB: A NoSQL database for storing user data.
 Express.js: A web application framework for handling HTTP requests and routing.
 
 Node.js: A JavaScript runtime for server-side programming.
+
+# to start---
+npm install 
+node app.js
